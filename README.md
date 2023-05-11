@@ -31,8 +31,8 @@ to answer the following questions:
 
 ## File Descriptions <a name="files"></a>
 
-A notebook presenting the answer the above questions following the CRISP-DM process is available here.
-There are also 3 data files in the _boston_data_ folder:
+A notebook that presents the answers to the above questions and follows the CRISP-DM process is available here.
+There are also 3 data files in the _Boston_ folder:
 
 * listings.csv: includes full descriptions and average review scores for 3585 listings.
 * reviews.csv: includes 68275 reviews written for 2829 listings from March 2009 to June 2016.
